@@ -1,0 +1,7 @@
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\bin\Debug\TicTacToeGame.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\bin\Debug\UsefulStaticMethods.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\bin\Debug\UsefulStaticMethods.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\obj\Debug\TicTacToeGame.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\obj\Debug\TicTacToeGame.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicTacToeGame\obj\Debug\TicTacToeGame.pdb

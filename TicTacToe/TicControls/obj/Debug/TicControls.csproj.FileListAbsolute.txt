@@ -1,0 +1,11 @@
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\TicControls.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\TicControls.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\TicTacToeGame.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\UsefulStaticMethods.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\TicTacToeGame.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\bin\Debug\UsefulStaticMethods.pdb
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\obj\Debug\TicControls.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\obj\Debug\TicControls.TicPanel.resources
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\obj\Debug\TicControls.csproj.GenerateResource.Cache
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\obj\Debug\TicControls.dll
+C:\Users\Max\Documents\Visual Studio 2013\Projects\TicTacToe\TicControls\obj\Debug\TicControls.pdb
